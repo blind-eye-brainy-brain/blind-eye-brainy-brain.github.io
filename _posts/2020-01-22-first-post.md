@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - github.io_test
-last_modified_at: {{page.last_modified_at}}
+last_modified_at: 2020-01-22:17:10:45+09:00
 ---
 
 github.io 많이들 쓰길래 한 번 해본다.
